@@ -19,7 +19,9 @@ export default class HelloButton extends React.Component<Props, State> {
   render() {
     return (
       <div>
-        <button style={{ fontSize: "200%" }}>Hello {this.props.name}!</button>
+        <button style={{ fontSize: "200%", backgroundColor: "red" }}>
+          Hello {this.props.name}!
+        </button>
       </div>
     );
   }

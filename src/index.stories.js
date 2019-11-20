@@ -5,37 +5,37 @@ export const story1 = () => html`
 `;
 
 export const story2 = () => html`
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
-  <custom-element name="you and me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
+  <custom-element name="you or me"> </custom-element>
 `;
 
 export const story3 = () => html`

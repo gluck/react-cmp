@@ -14,7 +14,7 @@ export default class HelloButton extends React.Component<Props, State> {
     name: PropTypes.string
   };
   static defaultProps = {
-    name: "World"
+    name: "Worldd"
   };
   render() {
     return (

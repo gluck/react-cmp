@@ -1,4 +1,5 @@
 [![edit-in-webcomponents.dev](https://webcomponents.dev/assets/ext/edit_in_wcd.svg)](https://webcomponents.dev/edit/F57S4r3ATluLdvgtqmkI)
+
 # React Starter Kit
 
 ### Starter kit result
@@ -7,7 +8,7 @@
   <custom-element name="test"></custom-element>
 ```
 
-### Links
+### Linkss
 
 - [Official website (reactjs.com)](https://reactjs.org)
 - [Getting Started](https://reactjs.org/docs/getting-started.html)

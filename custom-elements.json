@@ -1,0 +1,14 @@
+{
+ "tags": [
+  {
+   "name": "custom-element",
+   "description": "sdf",
+   "attributes": [],
+   "properties": [],
+   "events": [],
+   "slots": [],
+   "cssProperties": [],
+   "cssParts": []
+  }
+ ]
+}

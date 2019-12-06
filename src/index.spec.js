@@ -10,7 +10,7 @@
 import chai from "chai/chai.js";
 const expect = chai.expect;
 
-describe("Dummy test", function() {
+describe("Dummyy test", function() {
   it("should be always true", function() {
     expect(true).to.be.true;
   });
